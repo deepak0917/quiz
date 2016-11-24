@@ -8,4 +8,7 @@ Fork this repo, add your solution and documentation on how to compile and run yo
 
 Obviously, we are looking for a fresh solution, not based on others' code.
 
+Solution : 
+I have used Python language to implement this problem.
+
 
